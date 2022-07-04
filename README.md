@@ -1,2 +1,2 @@
-# postanalysis-Gita-sentiments
+# Post-analysis of Gita sentiments
 This reporsitory contains the code and analysis for the post-analysis of Bhagavad Gita sentiment predictions and semantic scores obtained in our paper : https://ieeexplore.ieee.org/document/9715095. We had used BERT-based DL model to predict sentiments for every verse in the Bhagavad Gita translation by Mahatma Gandhi, Eknath Easwaran and Shri Purohit Swami. We also obtained cosine similarity scores for pairs of verses and extracted the top 10 keywords from eery chapter. The goal of the current analysis is to validate these predictions and scores by comparing them with sentiment and scores given by expert Sanskrit translators. 
